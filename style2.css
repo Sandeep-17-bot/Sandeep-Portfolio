@@ -17,6 +17,7 @@ nav{
 .container{
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-bottom: 4rem;
 }
 .navigation{
     background-color: #00bfa6;
@@ -61,6 +62,7 @@ nav{
 }
 section{
     display: block;
+    
 }
 
 
