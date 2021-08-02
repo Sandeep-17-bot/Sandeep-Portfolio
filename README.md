@@ -1,3 +1,3 @@
 # Sandeep-Portfolio
 
->[Check My Portfolio](https://sandeep-portfolio-neogcamp.netlify.app/)
+>[Check My Portfolio](https://code-sandeep.netlify.app/)
