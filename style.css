@@ -122,3 +122,7 @@ footer{
     text-decoration: none;
     padding: 0.5rem 1rem;
 }
+.projects{
+    display:flex ;
+    justify-content: space-around;
+}

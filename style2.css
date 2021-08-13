@@ -102,6 +102,7 @@ footer{
     padding: 1rem;
     background-color: #00bfa6;
     border-top-right-radius: 1rem;
+    margin-top: 2rem;
 }
 .footer .footer-header{
     font-size: large;
